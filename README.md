@@ -1,5 +1,5 @@
 # potential-unlimited
-## A home for my coding projects
+## A Home For My Coding Projects
 
 The projects in this repository are my own work and these give you a snapshot of my competencies with various programming languages.
 
