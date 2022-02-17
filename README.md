@@ -10,4 +10,4 @@ This is a fictitious Case Study utlising real world data to create a linear mode
 ### Global Pandemic Analysis
 
 This analysis uses real world data taken from the 'Our World In Data COVID -19 Dataset' which can be found at https://covid.ourworldindata.org/data/owid-covid-data.csv .
-The anaysis uses **Python** to produce visualisations of the current COVID-19 pandemic (attributed to the SARS-CoV-2 Coronavirus) and the relationship between different data with some interesting comparisons to Swine flu. It is available in .html or .ipynb format. The analysis was completed over a 6-week period as part of a Master's level Applied Data Science course with The University of Adelaide.
+The analysis uses **Python** to produce visualisations of the current COVID-19 pandemic (attributed to the SARS-CoV-2 Coronavirus) and the relationship between different data with some interesting comparisons to Swine flu. It is available in .html or .ipynb format. The analysis was completed over a 6-week period as part of a Master's level Applied Data Science course with The University of Adelaide.
